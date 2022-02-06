@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+####  🏆 My Stats: 🏆
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmfl1230&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmfl1230&layout=compact)](https://github.com/zmfl1230/github-readme-stats)
+
 <!--
 **zmfl1230/zmfl1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
