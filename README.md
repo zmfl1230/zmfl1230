@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Welcome 🙄
 
-####  🏆 My Stats: 🏆
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmfl1230&show_icons=true&theme=radical)
+####  🏆 My Stats 🏆
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmfl1230&show_icons=true&theme=vue&count_private=true)
+
 <br>
+
+#### 🐶 I use the most 🐼
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmfl1230&layout=compact)](https://github.com/zmfl1230/github-readme-stats)
 
 <!--
