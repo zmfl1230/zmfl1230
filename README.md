@@ -1,11 +1,16 @@
 ### Hi there 👋 Welcome 🙄
 
-####  🏆 My Stats 🏆
+####  🏆 My stats 🏆
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmfl1230&show_icons=true&theme=vue&count_private=true)
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=zmfl1230)](#)
+
+<a href="https://opgc.me/#/users/zmfl1230" target="_blank"><img src="https://api.opgc.me/githubs/users/zmfl1230/tag/?theme=basic" /></a>
+
+
 
 <br>
 
-#### 🐶 I use the most 🐼
+#### 🐶 What language do I usually use 🐼
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmfl1230&layout=compact)](https://github.com/zmfl1230/github-readme-stats)
 
 <!--
