@@ -4,7 +4,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmfl1230&show_icons=true&theme=vue&count_private=true)
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=zmfl1230)](#)
 
-<a href="https://opgc.me/#/users/zmfl1230" target="_blank"><img src="https://api.opgc.me/githubs/users/zmfl1230/tag/?theme=basic" /></a>
 
 
 
